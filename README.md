@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## The Vanimal's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi I'm Van, my friends call me Vanimal. I am a Systems Engineer wanting to learn from others in the GitHub and Cloud Community
 
-[✍️ Tell us why you started this challenge]
+I want to dig deeper into AWS, AZURE and Google Cloud platforms, and finally develope some basic coding skills.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like to pass my AWS Associate and Architect Certifications for Cloud
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@vavf925](https://twitter.com/vAVF925)
+- [LinkedIn](https://www.linkedin.com/in/van-flowers-1408149/)
 
 ## Stepping out the door
 
