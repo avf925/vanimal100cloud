@@ -33,7 +33,7 @@ I would like to pass my AWS Associate and Architect Certifications for Cloud
 - [ ] ☁️ 4 > [Day 4](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Day 5](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Turkey Day](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Day 7](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
