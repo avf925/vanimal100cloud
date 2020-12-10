@@ -46,7 +46,7 @@ I would like to pass my AWS Associate and Architect Certifications for Cloud
 - [ ] ☁️ 14 > [Day 14](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Day 15](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Day 16](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [ ] ☁️ 17 > [Day 17](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
