@@ -49,7 +49,7 @@ I would like to pass my AWS Associate and Architect Certifications for Cloud
 - [ ] ☁️ 17 > [Day 17](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Day 18](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Day 19 - Pi Day](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [Day 20 - Pi Day](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
